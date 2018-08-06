@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tool="http://schemas.android.com/tools">
+
+    <data>
+
+        <import type="android.view.View" />
+
+        <variable
+            name="model"
+            type="com.mobileapp.rpm.takenote.model.History" />
+
+    </data>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:elevation="1dp"
+        android:orientation="vertical">
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/tvNote"
+            style="@style/Heading_5"
+            android:layout_marginEnd="15dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="5dp"
+            android:gravity="start"
+            tool:text="@string/string_note" />
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/tvTimestamp"
+            style="@style/Subscript_1"
+            android:layout_marginEnd="15dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="5dp"
+            android:paddingEnd="10dp"
+            android:paddingStart="0dp"
+            android:text="@string/string_timestamp"
+            android:textColor="@color/colorSecondaryText" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="5dp"
+            android:alpha="0.2"
+            android:background="@color/colorDivider" />
+    </LinearLayout>
+
+</layout>

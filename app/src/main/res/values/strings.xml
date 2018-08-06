@@ -1,0 +1,15 @@
+<resources>
+    <string name="appscroll" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="app_name">Take Note</string>
+    <string name="string_enter_note">Enter you note here</string>
+    <string name="string_push">Push</string>
+    <string name="string_history">View history</string>
+    <string name="string_note_history">Note history</string>
+    <string name="string_clear_all">Clear all</string>
+    <string name="string_timestamp">Now</string>
+    <string name="string_note">Buy egg and cheese</string>
+    <string name="string_clear">Clear history?</string>
+    <string name="string_yes">Yes</string>
+    <string name="string_no">No</string>
+    <string name="string_no_history_found">No history found</string>
+</resources>
