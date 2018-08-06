@@ -1,7 +1,6 @@
 # Take Note: Notes in notification
 --------------------------
 [![CircleCI](https://circleci.com/bb/rmanacmol/takenote-android.svg?style=svg)](https://circleci.com/bb/rmanacmol/takenote-android)
-
 Note taking app that let's you push notes or reminders in your notification.
 
 For those people who tend to forget stuffs randomly, as well as for others who would like to keep or note on something quickly. 
@@ -18,7 +17,8 @@ Take Note Features
 
 Download
 --------------------------
-![](https://bitbucket.org/rmanacmol/assets/raw/994c5a89cf1350628bd9636b180be3c47541c806/googleplay_logo.png)
+<a href="https://play.google.com/store/apps/details?id=com.mobileapp.rpm.takenote" target="_blank">
+<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height="80"/></a>
 
 Screenshot
 --------------------------
