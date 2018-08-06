@@ -1,6 +1,6 @@
 # Take Note: Notes in notification
 --------------------------
-[![CircleCI](https://circleci.com/bb/rmanacmol/takenote-android.svg?style=svg)](https://circleci.com/bb/rmanacmol/takenote-android)
+
 Note taking app that let's you push notes or reminders in your notification.
 
 For those people who tend to forget stuffs randomly, as well as for others who would like to keep or note on something quickly. 
